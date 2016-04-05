@@ -1,6 +1,6 @@
 name: vickidasilva
 favicon: null
-layout_spectrum: 0.25198
+layout_spectrum: 0.25
 typography_spectrum: 0.09121226123534143
 title: Vicki DaSilva
 cta:
@@ -22,7 +22,7 @@ color:
     - '#cd1510'
     - '#fe6816'
     - '#fd96d2'
-  brandStrength: 0.125
+  brandStrength: 0.5
   lightness: 0.5925438944250345
   saturation: 0.45950927934609354
   rhythmicContrast: 0
